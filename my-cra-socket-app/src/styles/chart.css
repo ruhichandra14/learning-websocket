@@ -1,0 +1,30 @@
+.bar-chart{
+    background-color: rgba(130, 127, 10, 0.1);
+    display: inline-block;
+    margin: 100px 9%;
+    border: 1px solid #bdb76b;
+}
+
+.chart-parent-container {
+    display: block;
+    width: 90%;
+    margin: auto;
+}
+
+
+
+/* all - dashboard type of dashboard */
+
+.bar-chart-container {
+    display: inline-flex;
+    flex-direction: column;
+    margin: 0 2%;
+}
+
+.highlights-container{
+    order: 2;
+}
+
+.bar-chart{
+    order: 1;
+}

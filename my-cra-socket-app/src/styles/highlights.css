@@ -1,0 +1,16 @@
+
+.highlights-list{
+    display: inline-block;
+}
+
+.highlights-list li{
+    list-style-type: initial;
+    text-decoration: underline;
+    font-size: 15px;
+    padding: 10px;
+    color: #696969;
+}
+
+.highlights-container h3{
+    margin-left: 9%;
+}

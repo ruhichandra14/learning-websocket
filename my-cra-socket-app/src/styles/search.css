@@ -1,0 +1,15 @@
+input.news-search {
+    display: inline-block;
+    width: 50%;
+    margin: 30px 0 30px 6.5%;
+    text-align: center;
+    -webkit-appearance: none;
+    padding: 14px 10px;
+    background-image: url(http://pngimages.net/sites/default/files/search-png-image-32989.png);
+    background-repeat: no-repeat;
+    background-position-x: 2%;
+    background-position-y: 50%;
+    background-size: 22px;
+    border: 1px solid #80808075;
+    cursor: pointer;
+}

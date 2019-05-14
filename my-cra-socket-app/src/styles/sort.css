@@ -1,0 +1,13 @@
+.sort-filter-container {
+    display: initial;
+}
+
+button.sort-option {
+    display: inline-block;
+    width: 7%;
+    padding: 14px 0;
+    background-color: #d7e2fa8f;
+    border: 2px solid dashed;
+    color: #1d67a7eb;
+    font-weight: 300;
+}
